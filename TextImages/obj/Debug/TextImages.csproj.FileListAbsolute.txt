@@ -1,0 +1,8 @@
+I:\prog\C#\TextImages\TextImages\bin\Debug\TextImages.exe.config
+I:\prog\C#\TextImages\TextImages\obj\Debug\TextImages.csprojResolveAssemblyReference.cache
+I:\prog\C#\TextImages\TextImages\bin\Debug\TextImages.exe
+I:\prog\C#\TextImages\TextImages\bin\Debug\TextImages.pdb
+I:\prog\C#\TextImages\TextImages\bin\Debug\nunit.framework.dll
+I:\prog\C#\TextImages\TextImages\bin\Debug\nunit.framework.xml
+I:\prog\C#\TextImages\TextImages\obj\Debug\TextImages.exe
+I:\prog\C#\TextImages\TextImages\obj\Debug\TextImages.pdb
